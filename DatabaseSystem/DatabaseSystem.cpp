@@ -1,7 +1,7 @@
 /*
 * Name: Mansi Patel
 * Purpose: This program will create/manipulate a generic database for multiple possible purposes.
-		 - In this particular program it will Add entity, Edit entity (Add/Edit/Delete field and it's datatype) and remove it from the database.
+		 - In this particular program it will Add entity, Edit entity (Add/Edit/Delete field and it's label) and remove it from the database.
 * Pseducode/ Program outline logic:
 		- create union for fields with diffrent types.
 		- create a structure that takes fields from union and has labels for those fields. It also stores data for 'last used datatype' - to perform the edit opeation
